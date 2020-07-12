@@ -33,5 +33,5 @@ If you have any questions about what we do, if you want to engage our services, 
 
 [Solo](http://chibicode.github.io/solo) \| [MIT License](http://chibicode.mit-license.org/)
 
-<a href="http://thehive.me/garyfleming"><img src="/assets/hivemind.png"/></a>
+<a href="http://thehive.me/garyfleming"><img src="{{ site.baseurl }}/assets/hivemind.png"/></a>
 
